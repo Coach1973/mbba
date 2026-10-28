@@ -1,0 +1,200 @@
+中華身心平衡推廣協會改版提案｜LK888 出圖指令（18 張）
+========================================
+
+#1  images/ai/hero-main.jpg  （首頁主視覺，1536x1024）
+畫面：長輩與年輕志工在社區活動中心一起做伸展，晨光灑落
+----------------------------------------
+Wide shot inside a bright Taiwanese neighborhood activity center in the morning. Six seniors in their 60s-70s and two young volunteers in sage-green vests do gentle arm-stretching exercises together, smiling. Golden sunlight streams through tall windows onto a polished wooden floor. Leave calm empty space on the left third for headline text.
+
+Style: warm documentary photography set in a Taiwanese small-town community, soft natural morning light, gentle film grain, muted palette of sage green, cream paper white and warm sunrise orange accents, shallow depth of field, honest unposed moments, calm and hopeful mood. No text, no letters, no logos, no watermark.
+
+Aspect ratio: 1536 x 1024.
+Negative prompt: text, letters, Chinese characters, logo, watermark, signage words, extra fingers, distorted hands, deformed faces, oversaturated colors, neon, plastic skin, cartoon, 3D render
+
+
+#2  images/ai/hero-tea.jpg  （首頁主視覺（小圖），1024x1024）
+畫面：快樂茶舖的一壺熱茶
+----------------------------------------
+Close-up of a simple clay teapot pouring hot oolong tea into small ceramic cups on a worn wooden table, steam rising and back-lit by warm morning sun, a sprig of green leaves beside the cups.
+
+Style: warm documentary photography set in a Taiwanese small-town community, soft natural morning light, gentle film grain, muted palette of sage green, cream paper white and warm sunrise orange accents, shallow depth of field, honest unposed moments, calm and hopeful mood. No text, no letters, no logos, no watermark.
+
+Aspect ratio: 1024 x 1024.
+Negative prompt: text, letters, Chinese characters, logo, watermark, signage words, extra fingers, distorted hands, deformed faces, oversaturated colors, neon, plastic skin, cartoon, 3D render
+
+
+#3  images/ai/pillar-healing.jpg  （平衡的三個面向・身心療癒，1024x1024）
+畫面：中年女性在樹蔭下閉眼靜坐
+----------------------------------------
+A Taiwanese woman in her 50s sits cross-legged on a linen mat under a large banyan tree, eyes gently closed, hands resting on her knees in quiet meditation. Dappled sunlight through leaves, soft green background bokeh, serene and grounded.
+
+Style: warm documentary photography set in a Taiwanese small-town community, soft natural morning light, gentle film grain, muted palette of sage green, cream paper white and warm sunrise orange accents, shallow depth of field, honest unposed moments, calm and hopeful mood. No text, no letters, no logos, no watermark.
+
+Aspect ratio: 1024 x 1024.
+Negative prompt: text, letters, Chinese characters, logo, watermark, signage words, extra fingers, distorted hands, deformed faces, oversaturated colors, neon, plastic skin, cartoon, 3D render
+
+
+#4  images/ai/pillar-health.jpg  （平衡的三個面向・健康推廣，1024x1024）
+畫面：木桌上的當季蔬果、溫開水、散步鞋
+----------------------------------------
+Overhead-angle still life on a rustic wooden table: seasonal Taiwanese vegetables and fruit (bok choy, sweet potato, guava, bananas) in a woven bamboo basket, a clear glass of warm water, and a pair of comfortable walking shoes placed nearby. Morning window light.
+
+Style: warm documentary photography set in a Taiwanese small-town community, soft natural morning light, gentle film grain, muted palette of sage green, cream paper white and warm sunrise orange accents, shallow depth of field, honest unposed moments, calm and hopeful mood. No text, no letters, no logos, no watermark.
+
+Aspect ratio: 1024 x 1024.
+Negative prompt: text, letters, Chinese characters, logo, watermark, signage words, extra fingers, distorted hands, deformed faces, oversaturated colors, neon, plastic skin, cartoon, 3D render
+
+
+#5  images/ai/pillar-social.jpg  （平衡的三個面向・社會成長，1024x1024）
+畫面：長輩與志工圍坐長桌泡茶聊天
+----------------------------------------
+Seniors and two volunteers sit around a long wooden table at a community center, sharing tea and laughing together in conversation, teacups and a plate of simple snacks on the table. Warm, friendly, candid moment.
+
+Style: warm documentary photography set in a Taiwanese small-town community, soft natural morning light, gentle film grain, muted palette of sage green, cream paper white and warm sunrise orange accents, shallow depth of field, honest unposed moments, calm and hopeful mood. No text, no letters, no logos, no watermark.
+
+Aspect ratio: 1024 x 1024.
+Negative prompt: text, letters, Chinese characters, logo, watermark, signage words, extra fingers, distorted hands, deformed faces, oversaturated colors, neon, plastic skin, cartoon, 3D render
+
+
+#6  images/ai/about-main.jpg  （關於我們，1024x1536）
+畫面：志工蹲下來握著長輩的手，在社區據點門口
+----------------------------------------
+Vertical portrait composition. At the doorway of a small rural community care center in Taiwan, a young female volunteer in a sage-green vest kneels down and warmly holds both hands of an elderly woman seated on a bench, both smiling. Potted plants by the door, soft afternoon light.
+
+Style: warm documentary photography set in a Taiwanese small-town community, soft natural morning light, gentle film grain, muted palette of sage green, cream paper white and warm sunrise orange accents, shallow depth of field, honest unposed moments, calm and hopeful mood. No text, no letters, no logos, no watermark.
+
+Aspect ratio: 1024 x 1536.
+Negative prompt: text, letters, Chinese characters, logo, watermark, signage words, extra fingers, distorted hands, deformed faces, oversaturated colors, neon, plastic skin, cartoon, 3D render
+
+
+#7  images/ai/program-siyoule.jpg  （三大方案・思優樂，1024x1024）
+畫面：身心療癒的陪伴方案
+----------------------------------------
+A quiet, cozy healing room: a volunteer listens attentively to a middle-aged woman, both seated on cushions facing each other, a cup of tea between them, soft linen curtains and a small plant. Gentle, safe, supportive atmosphere.
+
+Style: warm documentary photography set in a Taiwanese small-town community, soft natural morning light, gentle film grain, muted palette of sage green, cream paper white and warm sunrise orange accents, shallow depth of field, honest unposed moments, calm and hopeful mood. No text, no letters, no logos, no watermark.
+
+Aspect ratio: 1024 x 1024.
+Negative prompt: text, letters, Chinese characters, logo, watermark, signage words, extra fingers, distorted hands, deformed faces, oversaturated colors, neon, plastic skin, cartoon, 3D render
+
+
+#8  images/ai/program-village-bank.jpg  （三大方案・鄉村銀行，1024x1024）
+畫面：在地互助的社企方案
+----------------------------------------
+A village mutual-aid market in rural Taiwan: local farmers and neighbors exchange home-grown vegetables, handmade goods and eggs at simple wooden stalls under a big tree, a volunteer notes things on a clipboard. Sense of community trust and sharing.
+
+Style: warm documentary photography set in a Taiwanese small-town community, soft natural morning light, gentle film grain, muted palette of sage green, cream paper white and warm sunrise orange accents, shallow depth of field, honest unposed moments, calm and hopeful mood. No text, no letters, no logos, no watermark.
+
+Aspect ratio: 1024 x 1024.
+Negative prompt: text, letters, Chinese characters, logo, watermark, signage words, extra fingers, distorted hands, deformed faces, oversaturated colors, neon, plastic skin, cartoon, 3D render
+
+
+#9  images/ai/program-tea.jpg  （三大方案・快樂茶舖，1024x1024）
+畫面：社區交流的溫暖據點
+----------------------------------------
+A small welcoming neighborhood tea corner with an open front: wooden benches, a counter with tea jars and a kettle, seniors chatting and a volunteer serving tea. Warm sunlight, lively but relaxed.
+
+Style: warm documentary photography set in a Taiwanese small-town community, soft natural morning light, gentle film grain, muted palette of sage green, cream paper white and warm sunrise orange accents, shallow depth of field, honest unposed moments, calm and hopeful mood. No text, no letters, no logos, no watermark.
+
+Aspect ratio: 1024 x 1024.
+Negative prompt: text, letters, Chinese characters, logo, watermark, signage words, extra fingers, distorted hands, deformed faces, oversaturated colors, neon, plastic skin, cartoon, 3D render
+
+
+#10  images/ai/news-assembly.jpg  （最新消息・會員大會，1536x1024）
+畫面：會議室中理事長致詞，理監事與會員專注聆聽
+----------------------------------------
+A modest meeting room at an association general assembly: a woman in her 60s in a light jacket speaks at a simple podium at the front, while about twenty board members and members listen attentively at rows of tables. Seen from the back of the room, faces of the audience mostly turned away. Bright, orderly, sincere.
+
+Style: warm documentary photography set in a Taiwanese small-town community, soft natural morning light, gentle film grain, muted palette of sage green, cream paper white and warm sunrise orange accents, shallow depth of field, honest unposed moments, calm and hopeful mood. No text, no letters, no logos, no watermark.
+
+Aspect ratio: 1536 x 1024.
+Negative prompt: text, letters, Chinese characters, logo, watermark, signage words, extra fingers, distorted hands, deformed faces, oversaturated colors, neon, plastic skin, cartoon, 3D render
+
+
+#11  images/ai/know-diet.jpg  （健康知識・飲食與身心平衡，1024x1024）
+畫面：均衡的家常餐點
+----------------------------------------
+A balanced Taiwanese home-cooked meal on a wooden table: a bowl of multigrain rice, steamed fish, stir-fried greens, tofu, a small bowl of clear soup and sliced fruit. Natural side light, wholesome and inviting.
+
+Style: warm documentary photography set in a Taiwanese small-town community, soft natural morning light, gentle film grain, muted palette of sage green, cream paper white and warm sunrise orange accents, shallow depth of field, honest unposed moments, calm and hopeful mood. No text, no letters, no logos, no watermark.
+
+Aspect ratio: 1024 x 1024.
+Negative prompt: text, letters, Chinese characters, logo, watermark, signage words, extra fingers, distorted hands, deformed faces, oversaturated colors, neon, plastic skin, cartoon, 3D render
+
+
+#12  images/ai/know-course.jpg  （健康知識・負能量和解課程，1024x1024）
+畫面：一群人圍坐共修冥想
+----------------------------------------
+A small group of eight adults of different ages sit in a circle on floor cushions in a calm wooden-floored studio, eyes closed in guided group meditation, hands resting on knees. Soft warm light from paper windows, peaceful.
+
+Style: warm documentary photography set in a Taiwanese small-town community, soft natural morning light, gentle film grain, muted palette of sage green, cream paper white and warm sunrise orange accents, shallow depth of field, honest unposed moments, calm and hopeful mood. No text, no letters, no logos, no watermark.
+
+Aspect ratio: 1024 x 1024.
+Negative prompt: text, letters, Chinese characters, logo, watermark, signage words, extra fingers, distorted hands, deformed faces, oversaturated colors, neon, plastic skin, cartoon, 3D render
+
+
+#13  images/ai/know-senior.jpg  （健康知識・銀髮族居家運動，1024x1024）
+畫面：長輩在家中做伸展運動
+----------------------------------------
+An elderly Taiwanese man in his 70s does a safe seated leg-stretching exercise on a sturdy chair in his bright living room, holding the back of another chair for balance, a water bottle nearby. Encouraging, safe, cheerful.
+
+Style: warm documentary photography set in a Taiwanese small-town community, soft natural morning light, gentle film grain, muted palette of sage green, cream paper white and warm sunrise orange accents, shallow depth of field, honest unposed moments, calm and hopeful mood. No text, no letters, no logos, no watermark.
+
+Aspect ratio: 1024 x 1024.
+Negative prompt: text, letters, Chinese characters, logo, watermark, signage words, extra fingers, distorted hands, deformed faces, oversaturated colors, neon, plastic skin, cartoon, 3D render
+
+
+#14  images/ai/lecture-ruiguang.jpg  （健康講座・仿生微粒口腔保健，1024x1024）
+畫面：口腔保健講座示意
+----------------------------------------
+A community health lecture on oral care: a large tooth-model and a toothbrush on a table at the front, an audience of seniors seen from behind listening, a projector screen glowing softly with an abstract blue-green image (no words). Clean, trustworthy.
+
+Style: warm documentary photography set in a Taiwanese small-town community, soft natural morning light, gentle film grain, muted palette of sage green, cream paper white and warm sunrise orange accents, shallow depth of field, honest unposed moments, calm and hopeful mood. No text, no letters, no logos, no watermark.
+
+Aspect ratio: 1024 x 1024.
+Negative prompt: text, letters, Chinese characters, logo, watermark, signage words, extra fingers, distorted hands, deformed faces, oversaturated colors, neon, plastic skin, cartoon, 3D render
+
+
+#15  images/ai/lecture-meditation.jpg  （健康講座・線上冥想工作坊，1024x1024）
+畫面：線上冥想工作坊示意
+----------------------------------------
+A woman sits calmly on a cushion at home in front of a laptop on a low table, joining an online guided meditation session, eyes closed, a candle and a small plant beside her. Evening warm lamp light, tranquil.
+
+Style: warm documentary photography set in a Taiwanese small-town community, soft natural morning light, gentle film grain, muted palette of sage green, cream paper white and warm sunrise orange accents, shallow depth of field, honest unposed moments, calm and hopeful mood. No text, no letters, no logos, no watermark.
+
+Aspect ratio: 1024 x 1024.
+Negative prompt: text, letters, Chinese characters, logo, watermark, signage words, extra fingers, distorted hands, deformed faces, oversaturated colors, neon, plastic skin, cartoon, 3D render
+
+
+#18  images/ai/teacher-hu.jpg  （講師團隊・胡桓榮（示意），1024x1024）
+畫面：講師示意圖，不畫出可辨識的臉
+----------------------------------------
+Square portrait placeholder for a lecturer, NOT a real identifiable person: a softly back-lit silhouette of a Taiwanese man in his 60s wearing a dark suit and white shirt, standing beside a lectern holding a small tooth model, face in gentle shadow so no facial features are visible. Centered head-and-shoulders composition, plain soft sage-green to cream gradient background, so it crops cleanly into a circle.
+
+Style: warm documentary photography set in a Taiwanese small-town community, soft natural morning light, gentle film grain, muted palette of sage green, cream paper white and warm sunrise orange accents, shallow depth of field, honest unposed moments, calm and hopeful mood. No text, no letters, no logos, no watermark.
+
+Aspect ratio: 1024 x 1024.
+Negative prompt: text, letters, Chinese characters, logo, watermark, signage words, extra fingers, distorted hands, deformed faces, oversaturated colors, neon, plastic skin, cartoon, 3D render
+
+
+#20  images/ai/quote-bg.jpg  （理念金句背景，1536x1024）
+畫面：清晨的稻田與遠山，霧氣柔和，大面積留白
+----------------------------------------
+Wide landscape of Taiwanese rice paddies at dawn, distant layered mountains in soft morning mist, pale sky with large empty calm area in the center for overlaid text, gentle green and warm peach tones, very low contrast and airy.
+
+Style: warm documentary photography set in a Taiwanese small-town community, soft natural morning light, gentle film grain, muted palette of sage green, cream paper white and warm sunrise orange accents, shallow depth of field, honest unposed moments, calm and hopeful mood. No text, no letters, no logos, no watermark.
+
+Aspect ratio: 1536 x 1024.
+Negative prompt: text, letters, Chinese characters, logo, watermark, signage words, extra fingers, distorted hands, deformed faces, oversaturated colors, neon, plastic skin, cartoon, 3D render
+
+
+#21  images/ai/contact.jpg  （聯絡我們，1024x1536）
+畫面：協會接待空間：木桌、熱茶、綠色植物，窗外陽光
+----------------------------------------
+Vertical interior shot of a small, welcoming association reception space: a wooden table with a pot of hot tea and two cups, a few brochures without readable text, lush green potted plants, sunlight pouring through a window. Inviting and peaceful, no people.
+
+Style: warm documentary photography set in a Taiwanese small-town community, soft natural morning light, gentle film grain, muted palette of sage green, cream paper white and warm sunrise orange accents, shallow depth of field, honest unposed moments, calm and hopeful mood. No text, no letters, no logos, no watermark.
+
+Aspect ratio: 1024 x 1536.
+Negative prompt: text, letters, Chinese characters, logo, watermark, signage words, extra fingers, distorted hands, deformed faces, oversaturated colors, neon, plastic skin, cartoon, 3D render
+
